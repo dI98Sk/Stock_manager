@@ -1,0 +1,1145 @@
+2020-05-03 10:32:22 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:22 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:22 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:22 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:22 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:22 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 10:32:23 INFO  LogTest:25 - Launching the application...
+2020-05-03 10:32:23 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 10:32:23 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 10:32:23 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 10:32:23 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 10:32:23 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 10:32:23 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 10:32:23 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 10:32:23 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 09:38:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:39 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:40 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 09:38:40 INFO  LogTest:25 - Launching the application...
+2020-05-03 09:38:40 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 09:38:40 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 09:38:40 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 09:38:40 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 09:38:40 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 09:38:40 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 09:38:40 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 09:38:40 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 09:40:58 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:58 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 09:40:59 INFO  LogTest:25 - Launching the application...
+2020-05-03 09:40:59 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 09:40:59 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 09:40:59 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 09:40:59 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 09:40:59 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 09:40:59 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 09:40:59 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 09:40:59 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 09:45:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:32 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:33 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 09:45:34 INFO  LogTest:25 - Launching the application...
+2020-05-03 09:45:34 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 09:45:34 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 09:45:34 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 09:45:34 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 09:45:34 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 09:45:34 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 09:45:34 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 09:45:34 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 09:47:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:00 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:00 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:00 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 09:47:01 INFO  LogTest:25 - Launching the application...
+2020-05-03 09:47:01 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 09:47:01 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 09:47:01 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 09:47:01 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 09:47:01 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 09:47:01 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 09:47:01 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 09:47:01 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 09:53:34 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:34 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:34 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:34 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:34 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 09:53:35 INFO  LogTest:25 - Launching the application...
+2020-05-03 09:53:35 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 09:53:35 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 09:53:35 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 09:53:35 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 09:53:35 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 09:53:35 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 09:53:35 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 09:53:35 INFO  LogTest:36 - Test INFO logging.
+2020-05-09 15:44:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:03 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:04 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-09 15:44:04 INFO  LogTest:25 - Launching the application...
+2020-05-09 15:44:04 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-09 15:44:04 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-09 15:44:04 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-09 15:44:04 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-09 15:44:04 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-09 15:44:04 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-09 15:44:04 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-09 15:44:04 INFO  LogTest:36 - Test INFO logging.
+2020-05-10 13:23:08 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:08 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:08 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:08 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:08 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:08 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-10 13:23:09 INFO  LogTest:25 - Launching the application...
+2020-05-10 13:23:09 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-10 13:23:09 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-10 13:23:09 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-10 13:23:09 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-10 13:23:09 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-10 13:23:09 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-10 13:23:09 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-10 13:23:09 INFO  LogTest:36 - Test INFO logging.
+2020-05-10 23:40:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:06 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-10 23:40:07 INFO  LogTest:25 - Launching the application...
+2020-05-10 23:40:07 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-10 23:40:07 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-10 23:40:07 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-10 23:40:07 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-10 23:40:07 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-10 23:40:07 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-10 23:40:07 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-10 23:40:07 INFO  LogTest:36 - Test INFO logging.
+2020-05-10 23:56:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:06 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-10 23:56:07 INFO  LogTest:25 - Launching the application...
+2020-05-10 23:56:07 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-10 23:56:07 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-10 23:56:07 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-10 23:56:07 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-10 23:56:07 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-10 23:56:07 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-10 23:56:07 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-10 23:56:07 INFO  LogTest:36 - Test INFO logging.
+2020-05-11 00:12:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:32 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-11 00:12:33 INFO  LogTest:25 - Launching the application...
+2020-05-11 00:12:33 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-11 00:12:33 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-11 00:12:33 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-11 00:12:33 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-11 00:12:33 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-11 00:12:33 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-11 00:12:33 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-11 00:12:33 INFO  LogTest:36 - Test INFO logging.
+2020-05-11 16:53:10 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:10 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:11 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-11 16:53:11 INFO  LogTest:25 - Launching the application...
+2020-05-11 16:53:11 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-11 16:53:11 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-11 16:53:11 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-11 16:53:11 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-11 16:53:11 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-11 16:53:11 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-11 16:53:11 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-11 16:53:11 INFO  LogTest:36 - Test INFO logging.
+2020-05-12 10:07:12 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ');
+2020-05-12 10:09:15 INFO  DataProviderDB:669 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-12 10:09:15 INFO  DataProviderDB:656 - DELETE FROM "TYPE" WHERE id=500;
+2020-05-12 10:10:51 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ');
+2020-05-12 10:51:49 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:49 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:49 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:49 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:49 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:49 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ');
+2020-05-12 10:51:50 ERROR DataProviderDB:662 - org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "TYPE_pkey"
+  Подробности: Ключ "(id)=(500)" уже существует.
+2020-05-12 10:51:50 INFO  DataProviderDB:669 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-12 10:51:50 INFO  DataProviderDB:656 - DELETE FROM "TYPE" WHERE id=500;
+2020-05-12 10:51:50 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:50 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-12 10:51:51 INFO  LogTest:25 - Launching the application...
+2020-05-12 10:51:51 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-12 10:51:51 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-12 10:51:51 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-12 10:51:51 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-12 10:51:51 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-12 10:51:51 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-12 10:51:51 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-12 10:51:51 INFO  LogTest:36 - Test INFO logging.
+2020-05-12 10:52:13 INFO  DataProviderDB:669 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-12 10:52:13 ERROR DataProviderDB:388 - Record not found!
+2020-05-12 10:52:13 ERROR DataProviderDB:269 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-12 10:52:29 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:29 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-12 10:52:30 INFO  LogTest:25 - Launching the application...
+2020-05-12 10:52:30 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-12 10:52:30 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-12 10:52:30 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-12 10:52:30 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-12 10:52:30 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-12 10:52:30 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-12 10:52:30 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-12 10:52:30 INFO  LogTest:36 - Test INFO logging.
+2020-05-15 20:28:45 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ');
+2020-05-15 20:31:44 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ');
+2020-05-15 20:36:40 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('501', 'Type2 ', 'TypeDesc3333 ');
+2020-05-16 16:32:59 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 16:32:59 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 16:32:59 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 16:32:59 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 16:32:59 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 16:32:59 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 16:33:00 INFO  LogTest:25 - Launching the application...
+2020-05-16 16:33:00 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 16:33:00 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 16:33:00 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 16:33:00 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 16:33:00 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 16:33:00 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 16:33:00 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 16:33:00 INFO  LogTest:36 - Test INFO logging.
+2020-05-16 17:06:40 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(id, name, description) VALUES ('500', 'Type ', 'TypeDesc ') RETURNING id;
+2020-05-16 17:06:40 ERROR DataProviderDB:668 - org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "TYPE_pkey"
+  Подробности: Ключ "(id)=(500)" уже существует.
+2020-05-16 17:07:00 INFO  DataProviderDB:656 - INSERT INTO "TYPE"(name, description) VALUES ('Type ', 'TypeDesc ') RETURNING id;
+2020-05-16 17:08:06 INFO  DataProviderDB:675 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-16 17:08:06 INFO  DataProviderDB:656 - UPDATE "TYPE" SET "name"='NEWype ', "description"='NEWypeDesc ' WHERE id=500;
+2020-05-16 17:08:06 ERROR DataProviderDB:668 - org.postgresql.util.PSQLException: Запрос не вернул результатов.
+2020-05-16 17:11:18 INFO  DataProviderDB:669 - INSERT INTO "TYPE"(name, description) VALUES ('Type ', 'TypeDesc ') RETURNING id;
+2020-05-16 17:11:38 INFO  DataProviderDB:688 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-16 17:11:38 INFO  DataProviderDB:656 - UPDATE "TYPE" SET "name"='NEWype ', "description"='NEWypeDesc ' WHERE id=500;
+2020-05-16 17:11:57 INFO  DataProviderDB:688 - SELECT * FROM "ITEM" WHERE id=500;
+2020-05-16 17:11:57 ERROR DataProviderDB:430 - Record not found!
+2020-05-16 17:12:12 INFO  DataProviderDB:688 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-16 17:12:33 INFO  DataProviderDB:688 - SELECT * FROM "TYPE" WHERE id=500;
+2020-05-16 17:12:33 INFO  DataProviderDB:656 - DELETE FROM "TYPE" WHERE id=500;
+2020-05-16 17:13:02 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:02 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 17:13:03 INFO  LogTest:25 - Launching the application...
+2020-05-16 17:13:03 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 17:13:03 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 17:13:03 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 17:13:03 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 17:13:03 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 17:13:03 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 17:13:03 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 17:13:03 INFO  LogTest:36 - Test INFO logging.
+2020-05-16 19:09:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:00 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:00 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 19:09:01 INFO  LogTest:25 - Launching the application...
+2020-05-16 19:09:01 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 19:09:01 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 19:09:01 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 19:09:01 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 19:09:01 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 19:09:01 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 19:09:01 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 19:09:01 INFO  LogTest:36 - Test INFO logging.
+2020-05-16 19:30:26 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:26 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 19:30:27 INFO  LogTest:25 - Launching the application...
+2020-05-16 19:30:27 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 19:30:27 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 19:30:27 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 19:30:27 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 19:30:27 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 19:30:27 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 19:30:27 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 19:30:27 INFO  LogTest:36 - Test INFO logging.
+2020-05-16 20:19:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:40 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 20:19:41 INFO  LogTest:25 - Launching the application...
+2020-05-16 20:19:41 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 20:19:41 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 20:19:41 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 20:19:41 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 20:19:41 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 20:19:41 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 20:19:41 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 20:19:41 INFO  LogTest:36 - Test INFO logging.
+2020-05-16 22:21:37 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:37 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:37 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:37 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:37 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-16 22:21:38 INFO  LogTest:25 - Launching the application...
+2020-05-16 22:21:38 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-16 22:21:38 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-16 22:21:38 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-16 22:21:38 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-16 22:21:38 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-16 22:21:38 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-16 22:21:38 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-16 22:21:38 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 16:41:38 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:38 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:38 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:38 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:38 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 16:41:39 INFO  LogTest:25 - Launching the application...
+2020-05-17 16:41:39 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 16:41:39 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 16:41:39 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 16:41:39 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 16:41:39 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 16:41:39 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 16:41:39 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 16:41:39 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:42:50 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:50 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:50 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:50 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:50 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:50 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:42:51 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:42:51 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:42:51 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:42:51 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:42:51 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:42:51 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:42:51 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:42:51 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:42:51 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:46:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:46:07 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:46:07 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:46:07 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:46:07 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:46:07 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:46:07 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:46:07 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:46:07 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:46:07 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:47:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:05 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:47:06 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:47:06 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:47:06 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:47:06 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:47:06 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:47:06 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:47:06 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:47:06 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:47:06 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:51:02 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:02 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:02 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:02 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:51:03 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:51:03 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:51:03 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:51:03 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:51:03 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:51:03 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:51:03 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:51:03 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:51:03 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:54:59 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:55:00 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:55:00 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:55:00 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:55:00 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:55:00 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:55:00 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:55:00 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:55:01 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:55:01 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 17:57:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:40 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:40 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:40 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-17 17:57:41 INFO  LogTest:25 - Launching the application...
+2020-05-17 17:57:41 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-17 17:57:41 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-17 17:57:41 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-17 17:57:41 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-17 17:57:41 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-17 17:57:41 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-17 17:57:41 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-17 17:57:41 INFO  LogTest:36 - Test INFO logging.
+2020-05-17 18:15:07 INFO  DataProviderDB:694 - SELECT * FROM "CLIENT" WHERE id=1;
+2020-05-17 18:15:07 INFO  DataProviderDB:694 - SELECT * FROM "ITEM" WHERE id=3;
+2020-05-17 18:15:07 INFO  DataProviderDB:675 - INSERT INTO "SELLING"(id, item, client, number, date, price) VALUES ('1', '3', '1', '3', 'Sun May 17 18:15:07 MSK 2020', '44') RETURNING id;
+2020-05-17 18:27:34 INFO  DataProviderDB:694 - SELECT count(*) FROM "CLIENT" WHERE login='Name';
+2020-05-17 18:27:35 INFO  DataProviderDB:637 - Record was found!
+2020-05-17 18:27:35 INFO  DataProviderDB:675 - INSERT INTO "CLIENT"(name, login, password, role) VALUES ('adminUser', 'Name', 'f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae', '99') RETURNING id;
+2020-05-17 18:27:54 INFO  DataProviderDB:694 - SELECT count(*) FROM "CLIENT" WHERE login='Name';
+2020-05-17 18:27:54 INFO  DataProviderDB:637 - Record was found!
+2020-05-17 18:30:18 INFO  DataProviderDB:675 - INSERT INTO "ITEM"(name, description, type) VALUES ('ItemName ', 'Desc', '1') RETURNING id;
+2020-05-17 18:31:39 INFO  DataProviderDB:675 - INSERT INTO "PROVIDER"(name) VALUES ('ProviderName') RETURNING id;
+2020-05-17 18:33:04 INFO  DataProviderDB:694 - SELECT * FROM "PROVIDER" WHERE id=2;
+2020-05-17 18:33:04 INFO  DataProviderDB:694 - SELECT * FROM "ITEM" WHERE id=3;
+2020-05-17 18:33:04 INFO  DataProviderDB:675 - INSERT INTO "DELIVERY"(item, provider, number, datestart, dateend, status, price) VALUES ('3', '2', '11', 'Sun May 17 18:33:04 MSK 2020', 'Sun May 17 18:33:04 MSK 2020', '1', '143') RETURNING id;
+2020-05-23 10:31:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:30 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 10:31:31 INFO  LogTest:25 - Launching the application...
+2020-05-23 10:31:31 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 10:31:31 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 10:31:31 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 10:31:31 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 10:31:31 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 10:31:31 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 10:31:31 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 10:31:31 INFO  LogTest:36 - Test INFO logging.
+2020-05-23 10:33:37 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:37 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:37 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:37 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:37 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 10:33:38 INFO  LogTest:25 - Launching the application...
+2020-05-23 10:33:38 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 10:33:38 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 10:33:38 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 10:33:38 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 10:33:38 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 10:33:38 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 10:33:38 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 10:33:38 INFO  LogTest:36 - Test INFO logging.
+2020-05-23 10:39:28 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:28 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:28 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:28 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:28 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 10:39:29 INFO  LogTest:25 - Launching the application...
+2020-05-23 10:39:29 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 10:39:29 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 10:39:29 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 10:39:29 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 10:39:29 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 10:39:29 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 10:39:29 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 10:39:29 INFO  LogTest:36 - Test INFO logging.
+2020-05-23 11:07:34 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:34 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 11:07:35 INFO  LogTest:25 - Launching the application...
+2020-05-23 11:07:35 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 11:07:35 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 11:07:35 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 11:07:35 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 11:07:35 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 11:07:35 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 11:07:35 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 11:07:35 INFO  LogTest:36 - Test INFO logging.
+2020-05-23 16:28:42 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 16:28:43 INFO  LogTest:25 - Launching the application...
+2020-05-23 16:28:44 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 16:28:44 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 16:28:44 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 16:28:44 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 16:28:44 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 16:28:44 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 16:28:44 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 16:28:44 INFO  LogTest:36 - Test INFO logging.
+2020-05-23 17:43:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:01 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:02 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:02 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:02 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:02 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-23 17:43:02 INFO  LogTest:25 - Launching the application...
+2020-05-23 17:43:02 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-23 17:43:02 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-23 17:43:02 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-23 17:43:02 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-23 17:43:02 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-23 17:43:02 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-23 17:43:02 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-23 17:43:02 INFO  LogTest:36 - Test INFO logging.
+2020-06-08 21:58:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-06-08 21:58:44 INFO  LogTest:25 - Launching the application...
+2020-06-08 21:58:44 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-06-08 21:58:44 INFO  LogTest:30 - JRE: 11.0.3
+2020-06-08 21:58:44 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-06-08 21:58:44 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-06-08 21:58:44 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-06-08 21:58:44 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-06-08 21:58:44 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-06-08 21:58:44 INFO  LogTest:36 - Test INFO logging.
+2020-06-09 11:35:44 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:44 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:44 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:44 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:44 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:44 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-06-09 11:35:45 INFO  LogTest:25 - Launching the application...
+2020-06-09 11:35:45 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-06-09 11:35:45 INFO  LogTest:30 - JRE: 11.0.3
+2020-06-09 11:35:45 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-06-09 11:35:45 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-06-09 11:35:45 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-06-09 11:35:45 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-06-09 11:35:45 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-06-09 11:35:45 INFO  LogTest:36 - Test INFO logging.
+2020-06-09 16:27:27 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:28 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:29 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-06-09 16:27:30 INFO  LogTest:25 - Launching the application...
+2020-06-09 16:27:30 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-06-09 16:27:30 INFO  LogTest:30 - JRE: 11.0.3
+2020-06-09 16:27:30 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-06-09 16:27:30 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-06-09 16:27:30 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-06-09 16:27:30 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-06-09 16:27:30 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-06-09 16:27:30 INFO  LogTest:36 - Test INFO logging.
+2020-06-09 19:53:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:00 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-06-09 19:53:01 INFO  LogTest:25 - Launching the application...
+2020-06-09 19:53:01 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-06-09 19:53:01 INFO  LogTest:30 - JRE: 11.0.3
+2020-06-09 19:53:01 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-06-09 19:53:01 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-06-09 19:53:01 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-06-09 19:53:01 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-06-09 19:53:01 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-06-09 19:53:01 INFO  LogTest:36 - Test INFO logging.
+2020-06-09 19:58:36 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:37 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:38 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:38 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-06-09 19:58:38 INFO  LogTest:25 - Launching the application...
+2020-06-09 19:58:38 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-06-09 19:58:38 INFO  LogTest:30 - JRE: 11.0.3
+2020-06-09 19:58:38 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-06-09 19:58:38 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-06-09 19:58:38 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-06-09 19:58:38 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-06-09 19:58:38 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-06-09 19:58:38 INFO  LogTest:36 - Test INFO logging.

@@ -1,0 +1,868 @@
+2020-04-12 21:05:14 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\CLIENT.xml (Не удается найти указанный файл)
+2020-04-12 21:05:14 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:14 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:14 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:05:24 ERROR DataProviderXml:90 - ERROR: record already added
+2020-04-12 21:05:24 INFO  ProductTurnoverClient:49 - Result[status: ERROR, message: null]
+2020-04-12 21:05:34 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\TYPE.xml (Не удается найти указанный файл)
+2020-04-12 21:05:34 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:35 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:35 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:05:36 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\ITEM.xml (Не удается найти указанный файл)
+2020-04-12 21:05:36 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:36 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:36 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:05:37 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\PROVIDER.xml (Не удается найти указанный файл)
+2020-04-12 21:05:37 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:37 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:37 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:05:40 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\SELLING.xml (Не удается найти указанный файл)
+2020-04-12 21:05:40 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:40 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:40 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:05:49 ERROR DataProviderXml:509 - java.io.FileNotFoundException: .\src\main\resources\data\xml\DELIVERY.xml (Не удается найти указанный файл)
+2020-04-12 21:05:49 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-12 21:05:49 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-12 21:05:49 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:06:49 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:06:50 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:06:51 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:06:52 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:06:57 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:07:09 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:07:26 INFO  ProductTurnoverClient:49 - Client[id=1, name=NEWClientName]
+2020-04-12 21:07:27 INFO  ProductTurnoverClient:49 - Item[id=1, name=NEWItemName, description=NEWDescription, type=Type[id=1, name=NEWTypeName, description=Description]]
+2020-04-12 21:07:28 INFO  ProductTurnoverClient:49 - Provider[id=1, name=NEWProviderName]
+2020-04-12 21:07:29 INFO  ProductTurnoverClient:49 - Type[id=1, name=NEWTypeName, description=Description]
+2020-04-12 21:07:55 INFO  ProductTurnoverClient:49 - Selling[id=1, item=Item[id=1, name=NEWItemName, description=NEWDescription, type=Type[id=1, name=NEWTypeName, description=Description]], client=Client[id=1, name=NEWClientName], number=12, date=Sat Mar 28 00:00:00 MSK 2020, price=200]
+2020-04-12 21:08:04 INFO  ProductTurnoverClient:49 - Selling[id=1, item=Item[id=1, name=NEWItemName, description=NEWDescription, type=Type[id=1, name=NEWTypeName, description=Description]], provider=Provider[id=1, name=NEWProviderName], number=7, datestart=Thu Mar 12 00:00:00 MSK 2020, dateend=Fri Mar 20 00:00:00 MSK 2020, status=1, price=11000]
+2020-04-12 21:08:22 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:08:39 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:08:40 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:08:41 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:08:51 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:09:01 INFO  ProductTurnoverClient:49 - Result[status: OK, message: null]
+2020-04-12 21:09:31 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:20 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:17:21 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:17:21 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:17:21 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:17:21 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:129 - ERROR: Provider OR Item NOT FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:108 - ERROR: Client OR Item NOT FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:228 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:167 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:253 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:149 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:185 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:203 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:287 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:321 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:304 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:339 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:357 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:17:21 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:17:21 ERROR DataProviderXml:270 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:17:21 INFO  LogTest:25 - Launching the application...
+2020-04-15 17:17:21 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-04-15 17:17:21 INFO  LogTest:30 - JRE: 11.0.3
+2020-04-15 17:17:21 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-04-15 17:17:21 INFO  LogTest:32 - Class Path: C:\Курсовые\Дима Скакун\productturnover\target\test-classes;C:\Курсовые\Дима Скакун\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-04-15 17:17:21 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-04-15 17:17:21 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-04-15 17:17:21 INFO  LogTest:35 - User Working Directory: C:\Курсовые\Дима Скакун\productturnover
+2020-04-15 17:17:21 INFO  LogTest:36 - Test INFO logging.
+2020-04-15 17:20:43 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:43 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:43 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:43 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:43 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:43 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:523 - java.lang.UnsupportedOperationException
+2020-04-15 17:20:44 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:129 - ERROR: Provider OR Item NOT FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:108 - ERROR: Client OR Item NOT FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:228 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:167 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:253 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:149 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:185 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:203 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:420 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:287 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:381 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:321 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:440 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:304 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:461 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:339 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:482 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:357 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:509 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-15 17:20:44 ERROR DataProviderXml:400 - java.util.NoSuchElementException: No value present
+2020-04-15 17:20:44 ERROR DataProviderXml:270 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-04-15 17:20:44 INFO  LogTest:25 - Launching the application...
+2020-04-15 17:20:44 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-04-15 17:20:44 INFO  LogTest:30 - JRE: 11.0.3
+2020-04-15 17:20:44 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-04-15 17:20:44 INFO  LogTest:32 - Class Path: C:\Курсовые\Дима Скакун\productturnover\target\test-classes;C:\Курсовые\Дима Скакун\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-04-15 17:20:44 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-04-15 17:20:44 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-04-15 17:20:44 INFO  LogTest:35 - User Working Directory: C:\Курсовые\Дима Скакун\productturnover
+2020-04-15 17:20:44 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 17:04:31 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:31 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:31 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:31 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:31 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:31 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:32 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:130 - ERROR: Provider OR Item NOT FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:109 - ERROR: Client OR Item NOT FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:229 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:168 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:254 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:150 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:186 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:204 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:288 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:322 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:305 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:340 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:358 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:32 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:32 ERROR DataProviderXml:271 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:32 INFO  LogTest:25 - Launching the application...
+2020-05-02 17:04:32 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 17:04:32 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 17:04:32 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 17:04:32 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 17:04:32 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 17:04:32 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 17:04:32 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 17:04:32 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 17:04:56 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:04:56 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:56 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:130 - ERROR: Provider OR Item NOT FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:109 - ERROR: Client OR Item NOT FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:229 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:168 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:254 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:150 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:186 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:204 - ERROR: RECORD FOR UPDATE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:288 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:322 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:305 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:340 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:358 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:04:57 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:04:57 ERROR DataProviderXml:271 - ERROR: RECORD FOR DELETE NOR FOUND!
+2020-05-02 17:04:57 INFO  LogTest:25 - Launching the application...
+2020-05-02 17:04:57 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 17:04:57 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 17:04:57 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 17:04:57 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 17:04:57 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 17:04:57 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 17:04:57 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 17:04:57 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 17:05:25 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:25 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:25 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:25 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:25 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:26 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:38 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:38 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:38 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:524 - java.lang.UnsupportedOperationException
+2020-05-02 17:05:39 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:130 - ERROR: Provider OR Item NOT FOUND!
+2020-05-02 17:05:39 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:511 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-05-02 17:05:39 ERROR DataProviderXml:109 - ERROR: Client OR Item NOT FOUND!
+2020-05-02 17:06:25 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:06:25 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:06:25 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:06:25 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:06:25 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:06:25 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:03 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:03 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:04 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:07:05 INFO  LogTest:25 - Launching the application...
+2020-05-02 17:07:05 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 17:07:05 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 17:07:05 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 17:07:05 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 17:07:05 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 17:07:05 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 17:07:05 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 17:07:05 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 17:13:41 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:41 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:13:42 INFO  LogTest:25 - Launching the application...
+2020-05-02 17:13:42 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 17:13:42 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 17:13:42 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 17:13:42 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 17:13:42 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 17:13:42 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 17:13:42 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 17:13:42 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 17:20:57 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:57 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:58 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 17:20:58 INFO  LogTest:25 - Launching the application...
+2020-05-02 17:20:58 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 17:20:58 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 17:20:58 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 17:20:58 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 17:20:58 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 17:20:58 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 17:20:58 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 17:20:58 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 18:21:13 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:13 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:14 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:14 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:14 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:14 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 18:21:14 INFO  LogTest:25 - Launching the application...
+2020-05-02 18:21:14 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 18:21:14 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 18:21:14 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 18:21:14 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 18:21:14 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 18:21:14 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 18:21:14 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 18:21:14 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 18:27:39 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:39 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:39 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:39 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:39 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:39 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 18:27:40 INFO  LogTest:25 - Launching the application...
+2020-05-02 18:27:40 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 18:27:40 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 18:27:40 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 18:27:40 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 18:27:40 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 18:27:40 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 18:27:40 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 18:27:40 INFO  LogTest:36 - Test INFO logging.
+2020-05-02 18:30:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:30 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-02 18:30:31 INFO  LogTest:25 - Launching the application...
+2020-05-02 18:30:31 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-02 18:30:31 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-02 18:30:31 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-02 18:30:31 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-02 18:30:31 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-02 18:30:31 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-02 18:30:31 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-02 18:30:31 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 10:07:51 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:51 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:52 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 10:07:53 INFO  LogTest:25 - Launching the application...
+2020-05-03 10:07:53 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 10:07:53 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 10:07:53 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 10:07:53 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 10:07:53 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 10:07:53 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 10:07:53 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 10:07:53 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 10:25:58 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:58 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:59 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:59 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:59 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 10:25:59 INFO  LogTest:25 - Launching the application...
+2020-05-03 10:25:59 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 10:25:59 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 10:25:59 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 10:25:59 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 10:25:59 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 10:25:59 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 10:25:59 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 10:25:59 INFO  LogTest:36 - Test INFO logging.
+2020-05-03 10:28:55 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:412 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:494 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:473 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:393 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:452 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderCsv:432 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:382 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:401 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:441 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:421 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:483 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:55 ERROR DataProviderXml:462 - java.util.NoSuchElementException: No value present
+2020-05-03 10:28:56 INFO  LogTest:25 - Launching the application...
+2020-05-03 10:28:56 INFO  LogTest:26 - Operating System: Windows 8.1 6.3
+2020-05-03 10:28:56 INFO  LogTest:30 - JRE: 11.0.3
+2020-05-03 10:28:56 INFO  LogTest:31 - Java Launched From: C:\Program Files\Java\jdk-11.0.3
+2020-05-03 10:28:56 INFO  LogTest:32 - Class Path: D:\Diploma Skakun\productturnover\target\test-classes;D:\Diploma Skakun\productturnover\target\classes;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\sp2\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\sp2\.m2\repository\com\opencsv\opencsv\4.6\opencsv-4.6.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\sp2\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\sp2\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\sp2\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\sp2\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\sp2\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\sp2\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sp2\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\sp2\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\sp2\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\sp2\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\sp2\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar;
+2020-05-03 10:28:56 INFO  LogTest:33 - Library Path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.6\bin;.
+2020-05-03 10:28:56 INFO  LogTest:34 - User Home Directory: C:\Users\sp2
+2020-05-03 10:28:56 INFO  LogTest:35 - User Working Directory: D:\Diploma Skakun\productturnover
+2020-05-03 10:28:56 INFO  LogTest:36 - Test INFO logging.
